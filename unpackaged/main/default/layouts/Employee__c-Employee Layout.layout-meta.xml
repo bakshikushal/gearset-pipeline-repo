@@ -12,7 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Employee_Name__c</field>
+                <field>Employee_City__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
@@ -21,6 +21,14 @@
             <layoutItems>
                 <behavior>Required</behavior>
                 <field>Birth_Date__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Employee_country__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Age__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
