@@ -26,6 +26,10 @@
                 <behavior>Edit</behavior>
                 <field>Employee_country__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Age__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
